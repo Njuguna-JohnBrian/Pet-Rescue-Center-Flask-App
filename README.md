@@ -9,7 +9,7 @@ A Flask Application To Rescue Pets
 Install paws-rescue-app with pip
 
 ```bash
-  git clone https://github.com/Njuguna-JohnBrian/Pet-Rescue-Center-Flask-App.git
+  [Clone The Repository Here ](https://github.com/Njuguna-JohnBrian/Pet-Rescue-Center-Flask-App.git)
 
   python<your_python_version> install pip
 
