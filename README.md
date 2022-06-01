@@ -5,12 +5,12 @@ A Flask Application To Rescue Pets
 
 
 ## Installation
+[Clone The Repository Here ](https://github.com/Njuguna-JohnBrian/Pet-Rescue-Center-Flask-App.git)
 
-Install paws-rescue-app with pip
+Install paws-rescue-app with pip by following the following 👇👇👇
 
 ```bash
-  [Clone The Repository Here ](https://github.com/Njuguna-JohnBrian/Pet-Rescue-Center-Flask-App.git)
-
+ 
   python<your_python_version> install pip
 
   pip install virtualenv
